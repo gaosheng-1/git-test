@@ -13,6 +13,11 @@ const routes = [
         name: "首页",
         component: () => import("@/views/home/index.vue")
     },
+    {
+        path: "/mine",
+        name: "我的",
+        component: () => import("@/views/mine/index.vue")
+    },
 ]
 const router = new Router({routes,/* mode:'history' */})
 export default router

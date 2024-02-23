@@ -5,11 +5,11 @@
         <Menu mode="horizontal" theme="dark" active-name="1">
           <div class="layout-logo"></div>
           <div class="layout-nav">
-            <MenuItem name="1">
+            <MenuItem name="1" to="/">
               <Icon type="ios-navigate"></Icon>
               Item 1
             </MenuItem>
-            <MenuItem name="2">
+            <MenuItem name="2" to="/mine">
               <Icon type="ios-keypad"></Icon>
               Item 2
             </MenuItem>

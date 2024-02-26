@@ -61,11 +61,12 @@
             <BreadcrumbItem>Layout</BreadcrumbItem>
           </Breadcrumb>
           <Content :style="{padding: '24px', minHeight: '280px', background: '#fff'}">
-            2: mine修改 
+            1: 修改的mine
+            2: mine修改
           </Content>
         </Layout>
       </Layout>
-    </Layout> 
+    </Layout>
   </div>
 </template>
 <script>

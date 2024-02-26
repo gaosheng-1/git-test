@@ -63,7 +63,7 @@
           <Content :style="{padding: '24px', minHeight: '280px', background: '#fff'}">
             1: 修改的mine
             1: 2次添加代码
-            2: mine修改
+            2: 2次修改的代码
           </Content>
         </Layout>
       </Layout>

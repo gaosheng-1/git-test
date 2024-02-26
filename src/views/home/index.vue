@@ -80,6 +80,8 @@ export default {}
   position: relative;
   border-radius: 4px;
   overflow: hidden;
+  width: 100%;
+  height: 100%;
 }
 
 .layout-logo {
